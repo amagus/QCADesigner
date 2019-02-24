@@ -1,0 +1,16 @@
+[COHERENCE_OPTIONS]
+T=1
+relaxation=1e-15
+time_step=1e-16
+duration=7e-11
+clock_high=9.8e-22
+clock_low=3.8e-23
+clock_shift=0.0
+clock_amplitude_factor=2.0
+radius_of_effect=80
+epsilonR=12.9
+layer_separation=11.5
+algorithm=2
+randomize_cells=TRUE
+animate_simulation=FALSE
+[#COHERENCE_OPTIONS]
